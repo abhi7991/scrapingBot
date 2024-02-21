@@ -1,4 +1,7 @@
 # scrapingBot
-A Python bot to scrape data from LetterBoxd data and Trader Joes geo locations
-
+A Python bot to scrape data from Letterboxd data and Trader Joes geo locations
+- Letterboxd
+  * Used embedded JSON to get the required data.
+- Trader Joes
+  * North America Trader Joe's location for Hypothesis testing. 
 #### Check the robot.txt to ensure compliance
